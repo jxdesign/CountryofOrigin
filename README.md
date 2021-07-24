@@ -4,3 +4,8 @@ Country of Origin is a service that returns the country of origin for popular pr
 
 ![Country Of Origin Video GIF](https://user-images.githubusercontent.com/22303396/126881181-9e920912-7d9d-44fe-94d3-078c37049099.gif)
 
+## Adding an item
+
+If an item isn't in our database, you can use the form below to submit the country of origin for that item. We will confirm the country where the product was made, and it should be live on Amazon within 48 hours. 
+
+[Submit country of origin for an item](https://docs.google.com/forms/d/e/1FAIpQLSeamWoOED7IE4mlJBx9MYEgXLUU_mha1H7x3Mevg7Ds-5FCAA/viewform)
