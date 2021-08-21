@@ -7,9 +7,16 @@ Country of Origin is a service that returns the country of origin for popular pr
 
 ## Try it out 
 
-Our Chrome extension is available here, if you'd like to try it out. Keep in mind it only has information on items for pets. 
+Our Chrome extension is available here. We have mostly information on pets, but are adding new categories based on what people are interested in getting results.
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/country-of-origin/gbbhgedbmpkdfgdglmhfebkegpdbkpec)
+
+
+## Suggesting new categories 
+
+If you have a category you shop for that you'd like to know the origin of the products and the brands behind them, submit it here. I'll do the work to try to add it into our database.  
+
+[Category you'd be interested in having](https://forms.gle/CkVeN1G6gKCQALay9)
 
 
 
